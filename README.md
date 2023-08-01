@@ -1,22 +1,31 @@
 # ImageResize
 
-
-
 ## Hello there, the file in this repo can resize the image to any width and height. 
-### Description
-<ul>
-  <li> To use this file, you can clone the repo.</li>
-  <li> To run the file, you will need the opencv library. All the requirement can be found in requirements.txt file.</li>
-  <ul>
-  <li>Terminal command to install all the library from requirements.txt</li>
-  <li>pip install -r requirements.txt</li>
-  </ul>
-  <li>After installing the file. You can run the file.</li>
-  <ul>
-    <li>python ResizeImage</li>
-  </ul>
-  <li>In the console, it will ask for the parameter and it will also show the eg of parameter.</li>
-</ul>
-   
-   
-  
+
+To setup the project in your system. You can follow the below mention steps. 
+-  Cloning the project
+    - There are two option to clone the project. If you have setup the SSH in your device and github you can go with option 1. If not then option 2.
+        - Option 1
+          
+           ```
+          git clone git@github.com:rukesh-shrestha/ImageResize.git
+          ```
+        - Option 2
+          ```
+          git clone https://github.com/rukesh-shrestha/ImageResize
+          ```
+- Go to the ImageResize folder
+  ```
+  cd ImageResize
+  ```
+- Download the required library
+  ```
+  pip install -r requirements.txt
+  ```
+- To run the file
+  ```
+  python ResizeImage
+  ```
+         
+
+
