@@ -27,5 +27,8 @@ To setup the project in your system. You can follow the below mention steps.
   python ResizeImage
   ```
          
-
+## Want to Contribute?
+- You can add the functionality in the project and send the pull request.
+- New Changes will be check then only verified.
+  
 
